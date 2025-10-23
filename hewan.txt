@@ -10,6 +10,7 @@ Babi
 Harimau
 Singa
 Gajah
+Udang
 Zebra
 Jerapah
 Rusa
@@ -31,6 +32,7 @@ Tapir
 Lumba-lumba
 Elang
 Merpati
+Tuna
 Perkutut
 Kenari
 Cendrawasih
