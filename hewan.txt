@@ -22,6 +22,8 @@ Singa
 
 Gajah
 
+Ular
+
 Udang
 
 Zebra
